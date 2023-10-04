@@ -1,0 +1,11 @@
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\0_306_9\source\repos\xijke\123\Names\PictureViewer\obj\Debug\PictureViewer.pdb
