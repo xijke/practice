@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Names\Names\bin\Debug\Names.exe.config
+C:\Users\user\source\repos\Names\Names\bin\Debug\Names.exe
+C:\Users\user\source\repos\Names\Names\bin\Debug\Names.pdb
+C:\Users\user\source\repos\Names\Names\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Names\Names\obj\Debug\Names.Form1.resources
+C:\Users\user\source\repos\Names\Names\obj\Debug\Names.Properties.Resources.resources
+C:\Users\user\source\repos\Names\Names\obj\Debug\Names.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Names\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Names\Names\obj\Debug\Names.exe
+C:\Users\user\source\repos\Names\Names\obj\Debug\Names.pdb
