@@ -35,7 +35,13 @@ namespace PictureViewer
 
         private void backgroundButton_Click(object sender, EventArgs e)
         {
-            this.BackColor = Color.Red;
+            using (ColorDialog colorDialog = new ColorDialog())
+            {
+                if (colorDialog.ShowDialog() == DialogResult.OK)
+                {
+                    this.BackColor = colorDialog.Color;
+                }
+            }
         }
 
         private void closeButton_Click(object sender, EventArgs e)
