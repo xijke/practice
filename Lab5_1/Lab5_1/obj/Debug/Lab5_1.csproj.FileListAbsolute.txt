@@ -1,0 +1,21 @@
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\bin\Debug\Lab5_1.exe.config
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\bin\Debug\Lab5_1.exe
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\bin\Debug\Lab5_1.pdb
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.AssemblyReference.cache
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\obj\Debug\Lab5_1.Lab5.resources
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\obj\Debug\Lab5_1.Properties.Resources.resources
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.GenerateResource.cache
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.CoreCompileInputs.cache
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\obj\Debug\Lab5_1.exe
+C:\Users\0_305_9\source\repos\Lab5_1\Lab5_1\obj\Debug\Lab5_1.pdb
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\bin\Debug\Lab5_1.exe.config
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\bin\Debug\Lab5_1.exe
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\bin\Debug\Lab5_1.pdb
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.AssemblyReference.cache
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.SuggestedBindingRedirects.cache
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\obj\Debug\Lab5_1.Lab5.resources
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\obj\Debug\Lab5_1.Properties.Resources.resources
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.GenerateResource.cache
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.CoreCompileInputs.cache
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\obj\Debug\Lab5_1.exe
+\\truenas\stud\Главный корпус\303_ИСП_2021-2025\слуков\Lab5_1\Lab5_1\obj\Debug\Lab5_1.pdb
